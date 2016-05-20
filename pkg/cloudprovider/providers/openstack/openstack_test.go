@@ -24,7 +24,7 @@ import (
 
 	"k8s.io/kubernetes/pkg/util/rand"
 
-	"github.com/rackspace/gophercloud"
+	"github.com/suonto/gophercloud"
 )
 
 func TestReadConfig(t *testing.T) {

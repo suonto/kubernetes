@@ -21,8 +21,8 @@ import (
 	"strings"
 
 	"github.com/golang/glog"
-	"github.com/rackspace/gophercloud"
-	"github.com/rackspace/gophercloud/openstack"
+	"github.com/suonto/gophercloud"
+	"github.com/suonto/gophercloud/openstack"
 	"k8s.io/kubernetes/pkg/auth/user"
 )
 

@@ -24,11 +24,11 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/rackspace/gophercloud"
-	osservers "github.com/rackspace/gophercloud/openstack/compute/v2/servers"
-	"github.com/rackspace/gophercloud/pagination"
-	"github.com/rackspace/gophercloud/rackspace"
-	"github.com/rackspace/gophercloud/rackspace/compute/v2/servers"
+	"github.com/suonto/gophercloud"
+	osservers "github.com/suonto/gophercloud/openstack/compute/v2/servers"
+	"github.com/suonto/gophercloud/pagination"
+	"github.com/suonto/gophercloud/rackspace"
+	"github.com/suonto/gophercloud/rackspace/compute/v2/servers"
 	"github.com/scalingdata/gcfg"
 
 	"github.com/golang/glog"
